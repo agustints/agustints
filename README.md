@@ -1,12 +1,12 @@
-# Hola 👋
+# Hi 👋
   
-### Mi nombre es Agustín Tornielli  soy . . .
+### Mi name is Agustín Tornielli I'm . . .
 
-:computer: Desarrollador Web<br>
+:computer: Full-Stack Developer<br>
 
 ---
-### Mis Conocimientos
-### :trophy: Lenguajes de Programación y Tecnologías de Desarrollo
+### My Knowledge
+### :trophy: Programming Languages and Development Technologies
 <p align="left">
 <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
@@ -21,7 +21,7 @@
 <a target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/></a>
 </p>
 
-### :bulb: Servidor y Servicios
+### :bulb: Server & Services
 <p align="left">
 <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a target="_blank"> <img src="https://www.sysadminsdecuba.com/wp-content/uploads/2018/11/Nginx-Logo-02.png" alt="html5" width="40" height="40"/></a>
