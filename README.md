@@ -91,3 +91,10 @@ I'm excited to see where my journey as a developer takes me. 🚀
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=agustints&hide_border=true" />
 </details>
+
+<details open>
+  <summary><b>👀 Github Profile Views</b></summary>
+
+  <br />
+  <img height="25em" src="https://visitor-badge.glitch.me/badge?page_id=agustints.agustints" />
+</details>
