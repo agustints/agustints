@@ -72,15 +72,15 @@ I'm excited to see where my journey as a developer takes me. 🚀
 ### My Personal Stats 📊
 
 <details open>
-  <summary><b>☄️ Github Streaks</b></summary>
-
+  <summary><b>🌱 Most used languages</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=agustints&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustints&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </details>
 
 <details open>
-  <summary><b>👀 Github Profile Views</b></summary>
-
+  <summary><b>☄️ Github Streaks</b></summary>
   <br />
-  <img height="25em" src="https://visitor-badge.glitch.me/badge?page_id=agustints.agustints" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agustints&theme=react&hide_border=true"/>
 </details>
+
+
