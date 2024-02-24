@@ -22,15 +22,18 @@ I'm excited to see where my journey as a developer takes me. 🚀
 <code><img height="27" src="https://cdn.simpleicons.org/typescript/99aab5" alt="typescript"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/node.js/99aab5" alt="node.js"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/python/99aab5" alt="python"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/hasura/99aab5" alt="hasura"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/mongodb/99aab5" alt="mongodb"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/mysql/99aab5" alt="mysql"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/postgresql/99aab5" alt="postgresql"></code>
 
-### Libraries 🌴
+### Featured Libraries 🌴
 
 <code><img height="27" src="https://cdn.simpleicons.org/react/99aab5" alt="react"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/reactquery/99aab5" alt="react-query"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/socket.io/99aab5" alt="socket.io"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/zod/99aab5" alt="socket.io"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/openai/99aab5" alt="openai"></code>
 
 ### Frameworks ⚡️
 
@@ -43,6 +46,7 @@ I'm excited to see where my journey as a developer takes me. 🚀
 <code><img height="27" src="https://cdn.simpleicons.org/visualstudiocode/99aab5" alt="vscode"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/github/99aab5" alt="github"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/slack/99aab5" alt="slack"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/amazonaws/99aab5" alt="aws"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/circleci/99aab5" alt="circleci"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/jira/99aab5" alt="jira"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/trello/99aab5" alt="trello"></code>
@@ -51,6 +55,8 @@ I'm excited to see where my journey as a developer takes me. 🚀
 <code><img height="27" src="https://cdn.simpleicons.org/postman/99aab5" alt="postman"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/adobephotoshop/99aab5" alt="photoshop"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/figma/99aab5" alt="figma"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/1password/99aab5" alt="figma"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/vercel/99aab5" alt="vercel"></code>
 
 ### CMS ✍️
 
@@ -61,6 +67,7 @@ I'm excited to see where my journey as a developer takes me. 🚀
 <code><img height="27" src="https://cdn.simpleicons.org/amazonec2/99aab5" alt="amazon ec2"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/amazonecs/99aab5" alt="amazon ecs"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/amazonrds/99aab5" alt="amazon rds"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/awsfargate/99aab5" alt="amazon fargate"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/amazoncloudwatch/99aab5" alt="amazon cloudwatch"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/cloudflare/99aab5" alt="cloudflare"></code>
 
