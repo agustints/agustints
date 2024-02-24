@@ -61,6 +61,7 @@ I'm excited to see where my journey as a developer takes me. 🚀
 ### CMS ✍️
 
 <code><img height="27" src="https://cdn.simpleicons.org/strapi/99aab5" alt="strapi"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/netlify/99aab5" alt="netlify cms"></code>
 
 ### Cloud & AWS Services 🌐
 
