@@ -14,6 +14,12 @@ I'm excited to see where my journey as a developer takes me. 🚀
 - ♻️ &nbsp; I'm interested in the DevOps area, and I love learning about infrastructure 🤖
 - 📦 &nbsp; Develop personal projects as a hobby to help different groups of people ⚡️
 
+### Open Source Contributions
+- [Next.js | Fix: HMR in multi-zone handling](https://github.com/vercel/next.js/pull/59471)
+- [Next Auth Hasura Adapter | Maintenance & Security updates](https://github.com/AmruthPillai/next-auth-hasura-adapter/pull/2)
+- [Tanstack Query (aka React Query) | Update default Devtools button position to bottom-right](https://github.com/TanStack/query/pull/6720)
+- [Vercel AI SDK | Docs: Update function name from AWSBedrockCohereStream to AWSBedrockLlama2Stream](https://github.com/vercel/ai/pull/924)
+
 ### Technologies 📦
 
 <code><img height="27" src="https://cdn.simpleicons.org/html5/99aab5" alt="html5"></code>
