@@ -22,60 +22,60 @@ I'm excited to see where my journey as a developer takes me. 🚀
 
 ### Technologies 📦
 
-<code><img height="27" src="https://cdn.simpleicons.org/html5/99aab5" alt="html5"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/css3/99aab5" alt="css3"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/javascript/99aab5" alt="javascript"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/typescript/99aab5" alt="typescript"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/node.js/99aab5" alt="node.js"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/python/99aab5" alt="python"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/hasura/99aab5" alt="hasura"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/mongodb/99aab5" alt="mongodb"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/mysql/99aab5" alt="mysql"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/postgresql/99aab5" alt="postgresql"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/html5/99aab5" alt="html5" title="HTML5"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/css3/99aab5" alt="css3" title="CSS3"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/javascript/99aab5" alt="javascript" title="JavaScript"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/typescript/99aab5" alt="typescript" title="TypeScript"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/node.js/99aab5" alt="node.js" title="Node.js"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/python/99aab5" alt="python" title="Python"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/hasura/99aab5" alt="hasura" title="Hasura"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/mongodb/99aab5" alt="mongodb" title="MongoDB"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/mysql/99aab5" alt="mysql" title="MySQL"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/postgresql/99aab5" alt="postgresql" title="PostgreSQL"></code>
 
 ### Featured Libraries 🌴
 
-<code><img height="27" src="https://cdn.simpleicons.org/react/99aab5" alt="react"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/reactquery/99aab5" alt="react-query"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/socket.io/99aab5" alt="socket.io"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/zod/99aab5" alt="socket.io"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/openai/99aab5" alt="openai"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/react/99aab5" alt="react" title="React"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/reactquery/99aab5" alt="react-query" title="React Query"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/socket.io/99aab5" alt="socket.io" title="Socket.io"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/zod/99aab5" alt="zod" title="Zod"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/openai/99aab5" alt="openai" title="OpenAI"></code>
 
 ### Frameworks ⚡️
 
-<code><img height="27" src="https://cdn.simpleicons.org/next.js/99aab5" alt="next.js"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/django/99aab5" alt="django"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/express/99aab5" alt="express"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/next.js/99aab5" alt="next.js" title="Next.js"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/django/99aab5" alt="django" title="Django"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/express/99aab5" alt="express" title="Express.js"></code>
 
 ### Tools ⚙️
 
-<code><img height="27" src="https://cdn.simpleicons.org/github/99aab5" alt="github"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/slack/99aab5" alt="slack"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/amazonwebservices/99aab5" alt="aws"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/circleci/99aab5" alt="circleci"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/jira/99aab5" alt="jira"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/trello/99aab5" alt="trello"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/miro/99aab5" alt="miro"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/sentry/99aab5" alt="sentry"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/postman/99aab5" alt="postman"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/adobephotoshop/99aab5" alt="photoshop"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/figma/99aab5" alt="figma"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/1password/99aab5" alt="figma"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/vercel/99aab5" alt="vercel"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/github/99aab5" alt="github" title="GitHub"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/slack/99aab5" alt="slack" title="Slack"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/amazonwebservices/99aab5" alt="aws" title="Amazon Web Services"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/circleci/99aab5" alt="circleci" title="CircleCI"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/jira/99aab5" alt="jira" title="Jira"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/trello/99aab5" alt="trello" title="Trello"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/miro/99aab5" alt="miro" title="Miro"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/sentry/99aab5" alt="sentry" title="Sentry"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/postman/99aab5" alt="postman" title="Postman"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/adobephotoshop/99aab5" alt="photoshop" title="Adobe Photoshop"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/figma/99aab5" alt="figma" title="Figma"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/1password/99aab5" alt="1password" title="1Password"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/vercel/99aab5" alt="vercel" title="Vercel"></code>
 
 ### CMS ✍️
 
-<code><img height="27" src="https://cdn.simpleicons.org/strapi/99aab5" alt="strapi"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/netlify/99aab5" alt="netlify cms"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/strapi/99aab5" alt="strapi" title="Strapi"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/netlify/99aab5" alt="netlify cms" title="Netlify CMS"></code>
 
 ### Cloud & AWS Services 🌐
 
-<code><img height="27" src="https://cdn.simpleicons.org/amazonec2/99aab5" alt="amazon ec2"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/amazonecs/99aab5" alt="amazon ecs"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/amazonrds/99aab5" alt="amazon rds"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/awsfargate/99aab5" alt="amazon fargate"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/amazoncloudwatch/99aab5" alt="amazon cloudwatch"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/cloudflare/99aab5" alt="cloudflare"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/amazonec2/99aab5" alt="amazon ec2" title="Amazon EC2"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/amazonecs/99aab5" alt="amazon ecs" title="Amazon ECS"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/amazonrds/99aab5" alt="amazon rds" title="Amazon RDS"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/awsfargate/99aab5" alt="amazon fargate" title="Amazon Fargate"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/amazoncloudwatch/99aab5" alt="amazon cloudwatch" title="Amazon CloudWatch"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/cloudflare/99aab5" alt="cloudflare" title="Cloudflare"></code>
 
 ### Working Methodologies 🦺
 
