@@ -2,7 +2,7 @@
 
 ### Personal Presentation ✨
 
-I'm 20 years old, I'm a self-taught developer based in Uruguay. 🇺🇾 </br>
+I'm 21 years old, I'm a self-taught developer based in Uruguay. 🇺🇾 </br>
 I discovered my love for coding when I started learning JavaScript, and I've been hooked ever since. 🤝 </br>
 I'm currently expanding my skillset by learning Python. 🐍 </br>
 I'm passionate about technology and constantly strive to improve my skills and knowledge. 👌 </br>
@@ -49,10 +49,9 @@ I'm excited to see where my journey as a developer takes me. 🚀
 
 ### Tools ⚙️
 
-<code><img height="27" src="https://cdn.simpleicons.org/visualstudiocode/99aab5" alt="vscode"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/github/99aab5" alt="github"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/slack/99aab5" alt="slack"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/amazonaws/99aab5" alt="aws"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/amazonwebservices/99aab5" alt="aws"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/circleci/99aab5" alt="circleci"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/jira/99aab5" alt="jira"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/trello/99aab5" alt="trello"></code>
