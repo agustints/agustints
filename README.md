@@ -58,7 +58,6 @@ I'm excited to see where my journey as a developer takes me. 🚀
 <code><img height="27" src="https://cdn.simpleicons.org/miro/99aab5" alt="miro" title="Miro"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/sentry/99aab5" alt="sentry" title="Sentry"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/postman/99aab5" alt="postman" title="Postman"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/adobephotoshop/99aab5" alt="photoshop" title="Adobe Photoshop"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/figma/99aab5" alt="figma" title="Figma"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/1password/99aab5" alt="1password" title="1Password"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/vercel/99aab5" alt="vercel" title="Vercel"></code>
