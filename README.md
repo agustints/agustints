@@ -22,59 +22,59 @@ I'm excited to see where my journey as a developer takes me. 🚀
 
 ### Technologies 📦
 
-<code><img height="27" src="https://cdn.simpleicons.org/html5/99aab5" alt="html5" title="HTML5"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/css3/99aab5" alt="css3" title="CSS3"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/javascript/99aab5" alt="javascript" title="JavaScript"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/typescript/99aab5" alt="typescript" title="TypeScript"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/node.js/99aab5" alt="node.js" title="Node.js"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/python/99aab5" alt="python" title="Python"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/hasura/99aab5" alt="hasura" title="Hasura"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/mongodb/99aab5" alt="mongodb" title="MongoDB"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/mysql/99aab5" alt="mysql" title="MySQL"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/postgresql/99aab5" alt="postgresql" title="PostgreSQL"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:html5.svg?color=%2399aab5" alt="html5" title="HTML5"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:css3.svg?color=%2399aab5" alt="css3" title="CSS3"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:javascript.svg?color=%2399aab5" alt="javascript" title="JavaScript"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:typescript.svg?color=%2399aab5" alt="typescript" title="TypeScript"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:nodedotjs.svg?color=%2399aab5" alt="node.js" title="Node.js"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:python.svg?color=%2399aab5" alt="python" title="Python"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:hasura.svg?color=%2399aab5" alt="hasura" title="Hasura"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:mongodb.svg?color=%2399aab5" alt="mongodb" title="MongoDB"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:mysql.svg?color=%2399aab5" alt="mysql" title="MySQL"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:postgresql.svg?color=%2399aab5" alt="postgresql" title="PostgreSQL"></code>
 
 ### Featured Libraries 🌴
 
-<code><img height="27" src="https://cdn.simpleicons.org/react/99aab5" alt="react" title="React"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/reactquery/99aab5" alt="react-query" title="React Query"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/socket.io/99aab5" alt="socket.io" title="Socket.io"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/zod/99aab5" alt="zod" title="Zod"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/openai/99aab5" alt="openai" title="OpenAI"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:react.svg?color=%2399aab5" alt="react" title="React"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:reactquery.svg?color=%2399aab5" alt="react-query" title="React Query"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:socketdotio.svg?color=%2399aab5" alt="socket.io" title="Socket.io"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:zod.svg?color=%2399aab5" alt="zod" title="Zod"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:openai.svg?color=%2399aab5" alt="openai" title="OpenAI"></code>
 
 ### Frameworks ⚡️
 
-<code><img height="27" src="https://cdn.simpleicons.org/next.js/99aab5" alt="next.js" title="Next.js"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/django/99aab5" alt="django" title="Django"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/express/99aab5" alt="express" title="Express.js"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%2399aab5" alt="next.js" title="Next.js"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:django.svg?color=%2399aab5" alt="django" title="Django"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:express.svg?color=%2399aab5" alt="express" title="Express.js"></code>
 
 ### Tools ⚙️
 
-<code><img height="27" src="https://cdn.simpleicons.org/github/99aab5" alt="github" title="GitHub"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/slack/99aab5" alt="slack" title="Slack"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/amazonwebservices/99aab5" alt="aws" title="Amazon Web Services"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/circleci/99aab5" alt="circleci" title="CircleCI"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/jira/99aab5" alt="jira" title="Jira"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/trello/99aab5" alt="trello" title="Trello"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/miro/99aab5" alt="miro" title="Miro"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/sentry/99aab5" alt="sentry" title="Sentry"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/postman/99aab5" alt="postman" title="Postman"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/figma/99aab5" alt="figma" title="Figma"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/1password/99aab5" alt="1password" title="1Password"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/vercel/99aab5" alt="vercel" title="Vercel"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:github.svg?color=%2399aab5" alt="github" title="GitHub"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:slack.svg?color=%2399aab5" alt="slack" title="Slack"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:amazonwebservices.svg?color=%2399aab5" alt="aws" title="Amazon Web Services"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:circleci.svg?color=%2399aab5" alt="circleci" title="CircleCI"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:jira.svg?color=%2399aab5" alt="jira" title="Jira"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:trello.svg?color=%2399aab5" alt="trello" title="Trello"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:miro.svg?color=%2399aab5" alt="miro" title="Miro"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:sentry.svg?color=%2399aab5" alt="sentry" title="Sentry"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:postman.svg?color=%2399aab5" alt="postman" title="Postman"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:figma.svg?color=%2399aab5" alt="figma" title="Figma"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:1password.svg?color=%2399aab5" alt="1password" title="1Password"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:vercel.svg?color=%2399aab5" alt="vercel" title="Vercel"></code>
 
 ### CMS ✍️
 
-<code><img height="27" src="https://cdn.simpleicons.org/strapi/99aab5" alt="strapi" title="Strapi"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/netlify/99aab5" alt="netlify cms" title="Netlify CMS"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:strapi.svg?color=%2399aab5" alt="strapi" title="Strapi"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:netlify.svg?color=%2399aab5" alt="netlify cms" title="Netlify CMS"></code>
 
 ### Cloud & AWS Services 🌐
 
-<code><img height="27" src="https://cdn.simpleicons.org/amazonec2/99aab5" alt="amazon ec2" title="Amazon EC2"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/amazonecs/99aab5" alt="amazon ecs" title="Amazon ECS"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/amazonrds/99aab5" alt="amazon rds" title="Amazon RDS"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/awsfargate/99aab5" alt="amazon fargate" title="Amazon Fargate"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/amazoncloudwatch/99aab5" alt="amazon cloudwatch" title="Amazon CloudWatch"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/cloudflare/99aab5" alt="cloudflare" title="Cloudflare"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:amazonec2.svg?color=%2399aab5" alt="amazon ec2" title="Amazon EC2"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:amazonecs.svg?color=%2399aab5" alt="amazon ecs" title="Amazon ECS"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:amazonrds.svg?color=%2399aab5" alt="amazon rds" title="Amazon RDS"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:awsfargate.svg?color=%2399aab5" alt="amazon fargate" title="Amazon Fargate"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:amazoncloudwatch.svg?color=%2399aab5" alt="amazon cloudwatch" title="Amazon CloudWatch"></code>
+<code><img height="27" src="https://api.iconify.design/simple-icons:cloudflare.svg?color=%2399aab5" alt="cloudflare" title="Cloudflare"></code>
 
 ### Working Methodologies 🦺
 
@@ -86,7 +86,7 @@ I'm excited to see where my journey as a developer takes me. 🚀
 <details open>
   <summary><b>🌱 Most used languages</b></summary>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustints&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agustints&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </details>
 
 <details open>
@@ -94,5 +94,4 @@ I'm excited to see where my journey as a developer takes me. 🚀
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agustints&theme=react&hide_border=true"/>
 </details>
-
 
