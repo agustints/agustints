@@ -80,18 +80,3 @@ I'm excited to see where my journey as a developer takes me. 🚀
 
 - Scrum 🤝
 - Extreme Programming 🏃‍♂️
-
-### My Personal Stats 📊
-
-<details open>
-  <summary><b>🌱 Most used languages</b></summary>
-  <br />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agustints&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-</details>
-
-<details open>
-  <summary><b>☄️ Github Streaks</b></summary>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agustints&theme=react&hide_border=true"/>
-</details>
-
