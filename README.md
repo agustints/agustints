@@ -2,7 +2,7 @@
 
 ### Personal Presentation ✨
 
-I'm 22 years old self-taught developer based in Uruguay. 🇺🇾 </br>
+I'm 23 years old self-taught developer based in Uruguay. 🇺🇾 </br>
 I discovered my love for coding when I started learning JavaScript, and I've been hooked ever since. 🤝 </br>
 I'm currently expanding my skillset by learning Python. 🐍 </br>
 I'm passionate about technology and constantly strive to improve my skills and knowledge. 👌 </br>
